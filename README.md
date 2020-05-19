@@ -4,7 +4,7 @@
 Approach followed while implementing this project:
 
  - Ingest initial set of tsv or csv files into staging tables
- - Design and load dimensional model for above data
+ - Designed and loaded dimensional model for above data
  
  ![Image](DimensionalModel.PNG)
  
