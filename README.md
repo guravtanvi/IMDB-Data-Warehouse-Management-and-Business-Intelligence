@@ -1,4 +1,4 @@
-# Approach followed while implementing this project:
+# Approach for implementing this project:
 
  - Ingest initial set of tsv or csv files into staging tables
  - Designed and loaded dimensional model for above data
